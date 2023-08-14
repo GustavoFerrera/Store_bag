@@ -1,4 +1,4 @@
-Projeto de catálogo de produtos com funcionalidades de carrinho de compras é uma aplicação web que permite aos usuários explorar uma lista de produtos, adicionar produtos ao carrinho, visualizar o total de preços dos itens selecionados e remover itens do carrinho. 
+# Projeto de catálogo de produtos com funcionalidades de carrinho de compras é uma aplicação web que permite aos usuários explorar uma lista de produtos, adicionar produtos ao carrinho, visualizar o total de preços dos itens selecionados e remover itens do carrinho. 
 
 # new-shopping-bag
 
