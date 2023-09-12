@@ -26,7 +26,7 @@
       </template>
 
       <template v-else>
-        <h4>Não há items no carrinho ainda</h4>
+        <h4>Não há itens no carrinho ainda</h4>
       </template>
 
     </div>
